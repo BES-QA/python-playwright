@@ -4,7 +4,7 @@ from playwright.sync_api import Page
 from allure import step
 from dotenv import load_dotenv
 
-from src.tests.ui.modules.helpers.timeouts import Timeouts
+from src.modules.helpers.timeouts import Timeouts
 
 
 class LoginPage:

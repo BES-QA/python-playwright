@@ -1,7 +1,7 @@
 from allure import step
 from playwright.sync_api import Page
 
-from src.tests.ui.modules.helpers.timeouts import Timeouts
+from src.modules.helpers.timeouts import Timeouts
 
 
 class Header:

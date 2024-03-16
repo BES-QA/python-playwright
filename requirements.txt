@@ -4,3 +4,5 @@ playwright
 pytest-xdist
 allure-pytest
 python-dotenv
+requests
+pydantic
